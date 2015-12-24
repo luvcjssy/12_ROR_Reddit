@@ -32,7 +32,7 @@ Please feel free to use a different markup language if you do not plan to run
 Site similar to Reddit or Hacker News.
 
 List gem used for:
-gem 'bootstrap-sass'
-gem 'acts_as_votable'
-gem 'simple_form'
-gem 'devise'
+- gem 'bootstrap-sass'
+- gem 'acts_as_votable'
+- gem 'simple_form'
+- gem 'devise'
